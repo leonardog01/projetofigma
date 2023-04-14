@@ -1,0 +1,187 @@
+.alpha {
+  background-color: #F9D1AC;
+  text-align: center;
+
+}
+
+footer {
+  background-color: #F9D1AC;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.segundocabeçalho {
+  background-color: #e3b488;
+  text-align: center;
+  font-size: 0, 5cm;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+
+button :hover {
+  color: #e3b488;
+  background-color: black;
+  border-radius: 100px;
+  padding: 6px;
+}
+
+button {
+  width: 200px;
+  height: 30px;
+  background-color: #e3b488;
+  color: #e3b488;
+  border-color: #000000;
+  border-radius: 50px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+button a {
+  color: black;
+  font-family: 'Courier New', Courier, monospace;
+  text-decoration: none;
+}
+
+p {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 15px;
+}
+
+.subtitulo1 {
+  text-align: center;
+  color: white;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 1cm;
+  position: relative;
+  top: 350px;
+}
+
+
+.infantil {
+
+  width: 1px;
+  height: 1px;
+}
+
+h2 {
+  text-align: start;
+  padding-left: 250px;
+}
+
+.subtítulo {
+
+  text-align: center;
+}
+
+.inicio {
+
+  text-align: center;
+
+}
+
+
+.obesidade {
+
+  text-align: center;
+  width: 15%;
+  padding-left: 200px;
+
+}
+
+.infantil {
+
+  align-items: center;
+  width: 100%;
+  height: 680px;
+}
+
+.Autismo {
+  margin-right:80px;
+  text-align: end;
+  padding-right: 250px;
+}
+
+.autismo2{
+  margin-right: 180px;
+  text-align: center;
+  width: 15%;
+  padding-left: 920px;
+}
+
+.materno {
+
+  text-align: end;
+  padding-right: 270px;
+}
+
+.materno2 {
+
+  text-align: center;
+  width: 15%;
+  padding-left: 940px;
+}
+
+.escolar {
+
+  text-align: center;
+  width: 15%;
+  padding-left: 190px;
+}
+
+.menino {
+  width: 10cm;
+  float: right;
+  border-radius: 200%;
+  border: 3px solid #2E9E8E;
+  margin: -225px 180px 1px 0px;
+}
+.conteiner{
+  align-items: center;
+  width: 1400px;
+  height: 210px;
+}
+.autismo3{
+
+  width: 10cm;
+  height: 250px;
+  float: left;
+  border-radius: 200%;
+  border: 3px solid #2E9E8E;
+  margin: -215px 180px 1px 100px;
+}
+.escolar2{
+
+  width: 10cm;
+  height: 250px;
+  float: right;
+  border-radius: 200%;
+  border: 3px solid #2E9E8E;
+  margin: -215px 180px 1px 0px;
+}
+.materno3{
+
+  width: 10cm;
+  height: 250px;
+  float: left;
+  border-radius: 200%;
+  border: 3px solid #2E9E8E;
+  margin: -230px 180px 1px 100px;
+}
+.obesidade1 {
+  width: 200px;
+  height: 40px;
+  background-color: #2E9E8E;
+  color: white;
+  border-radius: 10px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-left: 210px;
+
+}
+.autismo4{
+
+  width: 200px;
+  height: 40px;
+  background-color: #2E9E8E;
+  color: white;
+  border-radius: 10px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-left: 260px;
+}
